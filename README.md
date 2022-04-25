@@ -22,7 +22,7 @@ By clicking on the top button, the page will swtich to the different mode comapr
 
 If it is dark mode now, the page will convert to light mode and vice versa.
 
-We also add an addition button enable user to change the background color in current webpage, but now we only provide only one choice for user to change background into green. 
+We also add an addition button enable user to change the background color in current webpage, but now we only provide only one choice for user to change background into green. However, if you can easily change into you favorite color by simply changing the color number in the colorOn.js to have your favorite color on!
 
 ## File introductions 
 

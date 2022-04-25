@@ -1,0 +1,25 @@
+{
+    "name": "Dark Mode",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "Try to convert your mode",
+    "background.service_worker": {
+        "scripts": [
+            "popup.js"
+        ],
+        "persistent": true
+    },
+    "action": {
+        "default_title": "Dark Mode",
+        "default_popup": "popup.html"
+    },
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*",
+        "*://*.com/"
+    ],
+    "permissions":[
+        "tabs",
+        "scripting"
+    ]
+}

@@ -4,7 +4,7 @@
 
 Hi! This is Dark Mode 1.0.0. Dark Mode is an extension which enables user to switch their current web page bewteen dark mode and light mode. 
 
-The dark theme usually applies to all of the pages, but there maybe some circumstances that you only want dark mode for specific page but maintain others in light mode. Our extension can help you by only applying for current web page without influencing other pages. 
+The dark theme usually applies to all of the pages, but there maybe some circumstances that you only want dark mode for specific page but maintain others in light mode. Our extension can help you by only applying for current web page without influencing other pages. Please enjoy. :)
 
 ## Installation
 

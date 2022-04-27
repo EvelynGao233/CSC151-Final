@@ -42,5 +42,5 @@ colorOff.js: Convert back to the original color.
 
 ## Test
 
-we have not completed test yet.
+
 

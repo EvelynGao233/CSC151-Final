@@ -42,5 +42,16 @@ colorOff.js: Convert back to the original color.
 
 ## Test
 
+During the process of building our project, we focused more on the direct visual effects of our extension but didn’t consider enough about how to test it. Writing unit tests for our Chrome extension is also different from the unit tests we have written in the past assignments in this class. 
+
+We have tried Jasmine and Jest to write the unit test, but failed to finish it because we don’t know how to set inputs for our expected outputs. 
+
+We tried to test whether there would be two buttons and whether the color of the page would change in our pop-up. We failed to finish it because we don’t know how to set inputs for our expected outputs. Considering that we used existing CSS filter functions to change the color of the page and that we called our Javascript after the user clicked the button, it is also hard to think about how we can effectively test our program. The effect files are called after the buttons are turned on. We are thus wondering how the test should work without having turned the button on.
+
+For the next time, we should think more about unit tests when writing our program. 
+
+(We have included test files we tried to use)
+
+
 
 
